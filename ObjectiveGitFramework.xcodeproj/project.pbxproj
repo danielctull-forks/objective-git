@@ -1444,7 +1444,6 @@
 				);
 				OTHER_LDFLAGS = (
 					"-lgit2-ios",
-					"-all_load",
 					"-lssh2-ios",
 				);
 				PRIVATE_HEADERS_FOLDER_PATH = include/ObjectiveGit;
@@ -1476,7 +1475,6 @@
 				);
 				OTHER_LDFLAGS = (
 					"-lgit2-ios",
-					"-all_load",
 					"-lssh2-ios",
 				);
 				PRIVATE_HEADERS_FOLDER_PATH = include/ObjectiveGit;
@@ -1734,7 +1732,6 @@
 				);
 				OTHER_LDFLAGS = (
 					"-lgit2-ios",
-					"-all_load",
 					"-lssh2-ios",
 				);
 				PRIVATE_HEADERS_FOLDER_PATH = include/ObjectiveGit;
